@@ -6,10 +6,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0lWfYH8H0vS1n7x2w/giphy.gif" alt="coding gif" width="720"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Startup%20Projects-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-CSE%20%26%20AI-green?style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Rajdeepm07?label=Follow&style=for-the-badge"/>
@@ -79,7 +75,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- **Email:** rajdeep.mallick@example.com *(replace with real email)*  
+- **Email:** [rajdeepmallick443@gmail.com](mailto:rajdeepmallick443@gmail.com)
 - **LinkedIn:** [linkedin.com/in/rajdeepmallick](https://linkedin.com/in/rajdeepmallick)  
 - **GitHub:** [github.com/Rajdeepm07](https://github.com/Rajdeepm07)
 
